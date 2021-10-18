@@ -1,0 +1,59 @@
+INFO SELFBOT | NUKE CMDS
+>botmassban
+Bans Everyone in the server using a bot.
+Parameters- >botmassban <prefix> <command-cooldown-time in seconds> <Target-server-ID> | Ban Perms Required
+Ex- >botmassban ? 3 810480167453196299
+>massban
+Bans Everyone in the server.A working banall cmd!!, 
+Parameters- >banall <Target-server-ID> | Ban Perms Required
+Ex- >massban 810480167453196299
+>masskick
+Bans Everyone in the server.A working kickall cmd!!, 
+Parameters- >kickall <Target-server-ID> | Kick Perms Required
+Ex- >masskick 810480167453196299
+>channelfuckery
+Mass Patches the server settings, notification, moderation, community-mode
+Parameters- >channelfuckery <Target-server-ID>
+Example- >channelfuckery 810480167453196299
+>trash
+Destruction 2021, 
+Parameters- >trash <Target-server-ID> | Admin Perms Required
+Ex- >trash 810480167453196299
+>securitynuke
+Nukes the server in a way, security / wickbot wont punish you.
+Parameters- >securitynuke
+Ex- >securitynuke
+>universalnuke
+Nukes the server in a way, universal bot wont punish you.
+Parameters- >universalnuke
+Ex- >universalnuke
+>nickall
+Updates the Nickname of all users in the server.
+Parameters- >nickall
+Ex- >nickall
+>delemojis
+Deletes all emojis of the server.
+Parameters- >delemojis
+Ex- >delemojis
+>delstickers
+Deletes all stickers of the server.
+Parameters- >delstickers
+Ex- >delstickers
+>scrape
+Scrape members list from a server 
+Parameters- >scrape <Target-server-ID> | Admin or manage Perms Required
+Ex- >scrape 810480167453196299
+>rc
+Renames every channel to the name provided
+Parameters- >rc <name>
+Ex- >rc RisinPlayZ op bolte
+>rr
+Renames every role to the name provided
+Parameters- >rr <name>
+Ex- >rr RisinPlayZ op bolte
+>webhookspam
+Creates multiple webhooks in every channel and Spams everyone with webhook in all channel
+Parameters- >webhookspam
+Ex- >webhookspam
+
+
